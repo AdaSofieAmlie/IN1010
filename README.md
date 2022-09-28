@@ -1,6 +1,6 @@
 # IN1010
 Her ligger alle de obligatoriske oppgavene jeg har gjort, da jeg tok emne IN1010 i vår 2021.
-Obligene 1-3 og 5-7 inneholder også oppgaveteksten til oppgavene jeg utførte. <br />
+Obligene inneholder også oppgaveteksten til oppgavene jeg utførte. <br />
 Litt om de forskjellige obligene:
 
 Oblig 1 handler om dataklynger. <br />
