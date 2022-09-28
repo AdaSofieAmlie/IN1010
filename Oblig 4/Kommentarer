@@ -1,0 +1,5 @@
+Feil/mangler:
+Resepter må legges manuelt til pasient for å kunne brukes og resepter må brukes for å vises i narkotisk statitsikken. Vi vet ikke helt om oppgaven var ment slik eller ikke.
+Når det gjelder resepter med narkotiske legemidler tenkte vi slik fordi de må brukes før de kan vises i statistikken.
+Det er en feil at man ikke klarer å bruke resepter som leses fra fil og heller må
+legge til reseptene manuelt til hver pasient for å kunne bruke de, men vi finner ikke hvor feilen er.
